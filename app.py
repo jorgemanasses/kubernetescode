@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'worten worten ARGOCD TEST!!!'
+    return 'Lima das metricas!!!'
